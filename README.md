@@ -5,9 +5,10 @@
 A **FIAP-X Platform** é uma plataforma baseada em **microserviços com Clean Architecture**, desenvolvida em **Python 3.11 + FastAPI**, provisionada via **Terraform** e implantada em **AWS EKS**. Possui pipeline CI/CD automatizado com GitHub Actions para testes, análise de qualidade, build e deploy.
 
 Repositorios:
-Auth/User: https://github.com/kauan1020/Auth-Microservice
-Processing: https://github.com/kauan1020/Processing-Microservice
-Infra: https://github.com/kauan1020/Infra-Microservices
+- Auth/User: https://github.com/kauan1020/Auth-Microservice
+- Processing: https://github.com/kauan1020/Processing-Microservice
+- Infra: https://github.com/kauan1020/Infra-Microservices
+
 ---
 ![arquitetura.png](arquitetura.png)
 
